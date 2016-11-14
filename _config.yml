@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+url: "ugrid.info" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -19,14 +19,14 @@ theme_settings:
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
-  rss: false
+  rss: true
   email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "groups/787225494648469"
   flickr:
-  github: "https://github.com/tommyjee/ugrid"
+  github: "tommyjee/ugrid"
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -36,12 +36,12 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: 
   wordpress:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-87367917-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
