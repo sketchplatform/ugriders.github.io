@@ -6,7 +6,7 @@ url: "ugrid.info" # the base hostname & protocol for your site
 theme_settings:
   # Meta
   title: UGRiD
-  avatar: avatar.png
+  avatar: ugrid_favicon.png
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
