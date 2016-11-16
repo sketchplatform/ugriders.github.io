@@ -1,33 +1,36 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
+<<<<<<< HEAD
 url: "http://ugrid.info" # the base hostname & protocol for your site
+=======
+url: "ugrid.info" # the base hostname & protocol for your site
+>>>>>>> cc3fa82c169d29f80dfe666ae3edb6fd4a4ccfbb
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type Theme
-  avatar: avatar.png
+  title: UGRiD
+  avatar: favicon.png
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "UGRiD" # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+     <p>Welcome to Undergraduate Researchers Interested In Data</p>
 
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
-  rss: false
+  rss: true
   email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "groups/787225494648469"
   flickr:
-  github: "rohanchandra/type-theme"
+  github: "tommyjee/ugrid"
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -37,12 +40,12 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: 
   wordpress:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-87367917-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
@@ -66,7 +69,7 @@ paginate: 5
 paginate_path: "blog/page:num"
 
 # BUILD SETTINGS
-markdown: knitr
+markdown: kramdown
 highlighter: rouge
 sass:
   sass_dir: _sass
