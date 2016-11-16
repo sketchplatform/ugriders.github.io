@@ -139,7 +139,7 @@ ggplot(dat_country, aes(x = country, y = conversion_rate)) +
   geom_bar(stat = "identity", aes(fill = country))
 ```
 
-![](/img/unnamed-chunk-6-1.png)
+![](/img/sample_feature_img_2.png)
 
 So it's apparent that the Chinese convert at a much lower rate than other countries.
 
