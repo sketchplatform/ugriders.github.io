@@ -1,10 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-<<<<<<< HEAD
-url: "http://ugrid.info" # the base hostname & protocol for your site
-=======
 url: "ugrid.info" # the base hostname & protocol for your site
->>>>>>> cc3fa82c169d29f80dfe666ae3edb6fd4a4ccfbb
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
