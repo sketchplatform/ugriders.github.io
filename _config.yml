@@ -12,11 +12,11 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Welcome to Undergraduate Researchers Interested In Data</h1>
+     <h2>Welcome to Undergraduate Researchers Interested In Data</h2>
 
   header_text_feature_image:
   footer_text: >
-   <h2>Copyright © UGRiD 2016</h2>
+   <h3>Copyright © UGRiD 2016</h3>
    
   # Icons
   rss: false
