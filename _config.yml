@@ -16,11 +16,11 @@ theme_settings:
 
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
-
+   Copyright © UGRiD 2016
+   
   # Icons
-  rss: true
-  email_address: # Full email address, e.g. "sam@example.com"
+  rss: false
+  email_address:"jjeon@umass.edu"
   behance:
   bitbucket:
   dribbble:
@@ -58,7 +58,7 @@ theme_settings:
   google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
 
   # Post navigation
-  post_navigation: false
+  post_navigation: true
 
 # PAGINATION
 paginate: 5
