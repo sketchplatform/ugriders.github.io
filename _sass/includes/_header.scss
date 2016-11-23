@@ -11,8 +11,8 @@
   }
 
   .avatar {
-    height: 2em;
-    width: 2em;
+    height: 3em;
+    width: 3em;
     float: left;
     margin-top: -3px;
     border-radius: 0.2em;
@@ -22,8 +22,8 @@
   .site-title {
     float: left;
     font-weight: bold;
-    font-size: 2em;
-    line-height: 1.8;
+    font-size: 1.5em;
+    line-height: 1.5;
   }
 
   .site-nav {
@@ -31,14 +31,14 @@
       margin: 0;
       padding: 0;
       list-style: none;
-      line-height: 1.2;
+      line-height: 1.1;
       float: right;
       text-align: right;
     }
     li {
       display: inline;
       float: left;
-      margin-right: 0.8em;
+      margin-right: 1.8em;
     }
     @media (max-width: 1100px) {
       ul {
