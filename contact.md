@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Us
+title: Contact
 permalink: /contact/
 feature-img: "img/sample_feature_img_2.png"
 ---
