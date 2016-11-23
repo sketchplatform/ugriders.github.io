@@ -91,6 +91,7 @@ p, ol, ul, dl, .math-display {
 }
 // KaTeX math display
 .math-display {
+  background-color: #efefef;
   display: inline-block;
   width: 100%;
 }
@@ -114,6 +115,7 @@ a {
 }
 .nav {
   list-style: none;
+  margin-right: 1em;
   margin: 0;
   padding: 0;
 }
