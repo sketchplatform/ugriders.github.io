@@ -12,15 +12,15 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Welcome to Undergraduate Researchers Interested In Data</p>
+     <h1>Welcome to Undergraduate Researchers Interested In Data</h1>
 
   header_text_feature_image:
   footer_text: >
-   Copyright © UGRiD 2016
+   <h2>Copyright © UGRiD 2016</h2>
    
   # Icons
   rss: false
-  email_address:"jjeon@umass.edu"
+  email_address:
   behance:
   bitbucket:
   dribbble:
@@ -58,7 +58,7 @@ theme_settings:
   google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
 
   # Post navigation
-  post_navigation: false
+  post_navigation: true
 
 # PAGINATION
 paginate: 5
