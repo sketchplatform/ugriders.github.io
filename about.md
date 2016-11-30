@@ -24,4 +24,4 @@ Since there is a rapidly growing interest in data science in the area, the goal 
 Members
 </h2></center>
 
-![TomJeon] (/img/member-photos/tomjeon.jpg)
+![TomJeon] (master/img/member-photos/tomjeon.jpg)
