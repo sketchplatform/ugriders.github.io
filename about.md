@@ -14,9 +14,8 @@ uGRiD stands for "Undergraduate Researchers interested in Data". We're a low-key
 </h3></center>
 
 
-<center><h4>
 Since there is a rapidly growing interest in data science in the area, the goal of the group is to provide a social base for like-minded Five College students. Basically, it's like DataFest with more dialogue with more than one group and with data from local and online businesses.
-</h4></center>
+
 
 ---
 
@@ -24,4 +23,4 @@ Since there is a rapidly growing interest in data science in the area, the goal 
 Members
 </h2></center>
 
-[TomJeon]: https://github.com/ugriders/ugriders.github.io/edit/master/img/member-photos/tomjeon.jpg "Tom Jeon"
+[TomJeon]: https://github.com/ugriders/ugriders.github.io/blob/master/img/member-photos/tomjeon.jpg "Tom Jeon"
