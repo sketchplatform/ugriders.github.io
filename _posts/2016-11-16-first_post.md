@@ -1,6 +1,7 @@
 ---
 layout: post
-title: First post
+title: Analyzing E-commerce Data
+author: Tom Jeon
 ---
 
 NOTE :
