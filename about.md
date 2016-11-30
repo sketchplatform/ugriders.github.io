@@ -24,3 +24,4 @@ Since there is a rapidly growing interest in data science in the area, the goal 
 Members
 </h2></center>
 
+[TomJeon]: https://github.com/ugriders/ugriders.github.io/edit/master/img/member-photos/tomjeon.jpg "Tom Jeon"
