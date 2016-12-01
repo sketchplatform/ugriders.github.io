@@ -4,8 +4,7 @@ title: Contact
 permalink: /contact/
 feature-img: "img/texture2.png"
 ---
-Email: mailto:jjeon@umass.edu
+
+Email: jjeon@umass.edu
  
-Every Saturday at 3pm on the First Floor 
-of the Intergrative Science Building 
-Address Location. 
+We meet on Saturdays 3pm on the first floor lounge of the Integrated Science Building (ISB) at UMass.
