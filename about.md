@@ -5,13 +5,10 @@ permalink: /about/
 feature-img: "img/texture3.png"
 ---
 
-<center><h2>
-Who We Are
-</h2></center>
 
-<center><h3>
+<center><h4>
 uGRiD stands for "Undergraduate Researchers interested in Data". We're a low-key group that consists of Five College students. You may find other motivated students to work on interesting projects together or open a dialogue about what you've been working on/ thinking about if you want to.
-</h3></center>
+</h4></center>
 
 ---
   
