@@ -3,8 +3,9 @@ layout: page
 title: Resource
 permalink: /resource/
 feature-img: "img/texture4.png"
----
-[Click Here to visit the Data Science Resource Pack](https://docs.google.com/document/d/1ybqfYYISGWTvPbdcLfyf95g8Sx3HmcP7qFnsJLpAnOw/edit) 
+--- 
+
+<h2> Onboarding Process </h2>
 
 Setting Up RStudio with Github                              | Download & Install:
 ----------------------------------------------------------- | -----------------------------------------------------------
@@ -29,5 +30,5 @@ jjeon@umass.edu                                             | Our Github Reposit
 vylee@umass.edu                                             | [UGRiD Repo](https://github.com/tommyjee/ugrid) 
                                                             | 
                                                             
-                                                            
-<iframe src="https://docs.google.com/document/d/1ybqfYYISGWTvPbdcLfyf95g8Sx3HmcP7qFnsJLpAnOw/edit" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+[Click Here to visit the Data Science Resource Pack](https://docs.google.com/document/d/1ybqfYYISGWTvPbdcLfyf95g8Sx3HmcP7qFnsJLpAnOw/edit)                                                            
+<iframe src="https://docs.google.com/document/d/1ybqfYYISGWTvPbdcLfyf95g8Sx3HmcP7qFnsJLpAnOw/edit/viewform?embedded=true" width="800" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
