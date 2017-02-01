@@ -6,9 +6,17 @@ feature-img: "img/texture3.png"
 ---
 
 
-<center><h3>
-uGRiD stands for "Undergraduate Researchers interested in Data". We're a low-key group that consists of Five College students. You may find other motivated students to work on interesting projects together or open a dialogue about what you've been working on/ thinking about if you want to.
-</h3></center>
+<center><h2>
+Mission Statement
+</h2></center>
+
+<h3>
+The purpose of this club shall be:
+1. Connecting undergraduate students across all disciplines interested in data for the purpose of extending our knowledge base. 
+2.Learn software used for data analysis and use said software to explore data sets.
+3. Have professional speakers across different fields come for presentation of new areas of knowledge. 
+4. Social gatherings in an informal setting to exchange ideas. 
+</h3>
 
 ---
   
