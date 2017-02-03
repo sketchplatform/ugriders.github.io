@@ -11,6 +11,7 @@ Mission Statement
 </h2></center>
 
 ---
+
 <br>
 <br>
 <h3>
@@ -32,6 +33,7 @@ The purpose of this club shall be:
 </h3>
 <br>
 <br>
+
 ---
   
 <center><i>
