@@ -30,5 +30,5 @@ post it on Slack:                                           | Facebook Group:
 vylee@umass.edu                                             | Our Github Repository:
                                                             | [UGRiD Repo](https://github.com/tommyjee/ugrid) 
                                                             
-[Click Here to visit the Data Science Resource Pack](https://docs.google.com/document/d/1ybqfYYISGWTvPbdcLfyf95g8Sx3HmcP7qFnsJLpAnOw/edit)                                                            
-<iframe src="https://docs.google.com/document/d/1ybqfYYISGWTvPbdcLfyf95g8Sx3HmcP7qFnsJLpAnOw/edit/viewform?embedded=true" width="800" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+                                                            
+<h2><a href="https://docs.google.com/document/d/1ybqfYYISGWTvPbdcLfyf95g8Sx3HmcP7qFnsJLpAnOw/edit">Click Here to visit the Data Science Resource Pack</a></h2>                                                            
