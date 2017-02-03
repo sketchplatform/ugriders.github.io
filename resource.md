@@ -31,4 +31,4 @@ vylee@umass.edu                                             | Our Github Reposit
                                                             | [UGRiD Repo](https://github.com/tommyjee/ugrid) 
                                                             
                                                             
-<h2><a href="https://docs.google.com/document/d/1ybqfYYISGWTvPbdcLfyf95g8Sx3HmcP7qFnsJLpAnOw/edit">Click Here to visit the Data Science Resource Pack</a></h2>                                                            
+<center><h1><a href="https://docs.google.com/document/d/1ybqfYYISGWTvPbdcLfyf95g8Sx3HmcP7qFnsJLpAnOw/edit">Click Here to visit the Data Science Resource Pack</a></h1></center>                                                            
