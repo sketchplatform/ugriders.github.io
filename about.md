@@ -10,12 +10,17 @@ feature-img: "img/texture3.png"
 Mission Statement
 </h2></center>
 
+<h3>
 The purpose of this club shall be:
-
-1. Connecting undergraduate students across all disciplines interested in data for the purpose of extending our knowledge base. 
+<br>
+1. Connecting undergraduate students across all disciplines interested in data for the purpose of extending our knowledge base. <br>
 2. Learn software used for data analysis and use said software to explore data sets.
+<br>
 3. Have professional speakers across different fields come for presentation of new areas of knowledge. 
+<br>
 4. Social gatherings in an informal setting to exchange ideas. 
+<br>
+</h3>
 
 ---
   
