@@ -19,16 +19,16 @@ Instructions:                                               | [https://www.r-pro
 5. Connecting rstudio (and the `ugrid.Rproj`)               | 
   with github                                               | Register for Slack:
 6. Pushing changes to your own branch on the                | [Slack](https://slack.com/) 
-  ugrid repo                                                |
-7. Merging changes from the master branch to your           | Guide To Setting Up RStudio with Github:     
-  own branch                                                | [R-Blogger](https://www.r-bloggers.com/rstudio-and-github/)   
+  ugrid repo                                                | (the team should be 5col-ugrid.slack.com)
+7. Merging changes from the master branch to your           |     
+  own branch                                                | Guide To Setting Up RStudio with Github:   
+                                                            | [R-Blogger](https://www.r-bloggers.com/rstudio-and-github/)   
+If you have any questions or issues please email or         | 
+post it on Slack:                                           | Facebook Group:
+                                                            | [UGRiD Facebook](https://www.facebook.com/groups/787225494648469/)
                                                             | 
-If you have any questions or issues please email or         | Facebook Group:
-post it on Slack:                                           | [UGRiD Facebook](https://www.facebook.com/groups/787225494648469/) 
-                                                            | 
-jjeon@umass.edu                                             | Our Github Repository:
-vylee@umass.edu                                             | [UGRiD Repo](https://github.com/tommyjee/ugrid) 
-                                                            | 
+vylee@umass.edu                                             | Our Github Repository:
+                                                            | [UGRiD Repo](https://github.com/tommyjee/ugrid) 
                                                             
 [Click Here to visit the Data Science Resource Pack](https://docs.google.com/document/d/1ybqfYYISGWTvPbdcLfyf95g8Sx3HmcP7qFnsJLpAnOw/edit)                                                            
 <iframe src="https://docs.google.com/document/d/1ybqfYYISGWTvPbdcLfyf95g8Sx3HmcP7qFnsJLpAnOw/edit/viewform?embedded=true" width="800" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
