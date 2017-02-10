@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 feature-img: "img/texture2.png"
 ---
-<h3>We meet on biweekly every Saturday at 3pm on the first floor lounge of the Integrated Science Building (ISB) at UMass.</h3>
+<h3>We meet on Saturday 3pm in Room 1667 (16th Floor) of the W.E.B DuBois Library at UMass.</h3>
 
 UGRID Email: <umassugrid@gmail.com><br />
 President Email (Vincent Lee): <vylee@umass.edu><br />
