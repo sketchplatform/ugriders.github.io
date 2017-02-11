@@ -18,6 +18,3 @@ Videogames Sales - <https://www.kaggle.com/rush4ratio/video-game-sales-with-rati
 
 #### New Members can get started with a worksheet:
 
-some text and [download][]
-
-[]:/download/Video_Games_Sales_as_at_22_Dec_2016.csv
