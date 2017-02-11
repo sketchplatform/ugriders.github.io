@@ -4,7 +4,7 @@ title: UGRID Meeting 1 - Introduction
 author: Vincent Lee
 ---
 
-<center> ## Hello everyone welcome to the first offical UGRID Meeting! </center>
+> Hello everyone welcome to the first offical UGRID Meeting! 
 
 #### Our main focus this week is to explore the Human Resource Analytics dataset:
 
