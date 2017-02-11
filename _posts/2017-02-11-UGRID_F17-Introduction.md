@@ -20,4 +20,4 @@ Videogames Sales - <https://www.kaggle.com/rush4ratio/video-game-sales-with-rati
 
 some text and [download][]
 
-[]:{{ site.url }}/download/Video_Games_Sales_as_at_22_Dec_2016.csv
+[]:/download/Video_Games_Sales_as_at_22_Dec_2016.csv
