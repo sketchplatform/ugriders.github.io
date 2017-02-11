@@ -4,7 +4,9 @@ title: UGRID Meeting 1 - Introduction
 author: Vincent Lee
 ---
 
-### Hello everyone welcome to the first offical UGRID Meeting!
+## Hello everyone welcome to the first offical UGRID Meeting! 
+
+---
 
 #### Our main focus this week is to explore the Human Resource Analytics dataset:
 
@@ -18,4 +20,4 @@ Videogames Sales - <https://www.kaggle.com/rush4ratio/video-game-sales-with-rati
 
 #### New Members can get started with a worksheet:
 
-
+</center>
