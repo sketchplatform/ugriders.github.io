@@ -13,6 +13,7 @@ author: Vincent Lee
 Human Resource Analytics - <https://www.kaggle.com/ludobenistant/hr-analytics>
 
 If you need help getting started try answering these questions for your data analysis:
+
 - So why do our best and most experienced employees leave prematurely?
 - How can we normalized effort levels based on employee salar?
 - Would a better salary and work environment improve overall effort/satisfaction levels?
