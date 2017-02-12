@@ -24,14 +24,13 @@ If you need help getting started try answering these questions for your data ana
 
 #### Optional Datasets:
 
-Adult Census Income - <https://www.kaggle.com/uciml/adult-census-income>
-
-Videogames Sales - <https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings>
+- Adult Census Income: <https://www.kaggle.com/uciml/adult-census-income>
+- Videogames Sales: <https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings>
 
 ---
 
 #### New Members can get started with a worksheet:
 
-Intro to R - <https://drive.google.com/drive/folders/0B7qRQkZ2lu7TUWI2VDNvOG9Gclk?usp=sharing>
+- Intro to R: <https://drive.google.com/drive/folders/0B7qRQkZ2lu7TUWI2VDNvOG9Gclk?usp=sharing>
 
 For further help or reference visit: <http://www.r-tutor.com/r-introduction>
