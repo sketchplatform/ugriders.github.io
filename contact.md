@@ -8,7 +8,7 @@ feature-img: "img/landscape3.jpeg"
 
 -----
 
-<h4>Contact our Officers:</h4><br />
+<h4>Contact our Officers:</h4>
 
 - UGRID Email: <umassugrid@gmail.com><br />
 - President Email (Vincent Lee): <vylee@umass.edu><br />
