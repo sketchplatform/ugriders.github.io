@@ -14,7 +14,7 @@ theme_settings:
   header_text: >
      <h2>Undergraduate Researchers Interested In Data</h2>
 
-  header_text_feature_image: "landscape1.jpeg"
+  header_text_feature_image: "img/landscape1.jpeg"
   footer_text: >
    <h3>Copyright © UGRiD 2016</h3>
    
