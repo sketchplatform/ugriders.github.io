@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 feature-img: "img/landscape3.jpeg"
 ---
-<center><h2>We meet on Saturday 3pm in Room 1667 (16th Floor) of the W.E.B DuBois Library at UMass.</h2></center>
+<center><h2>We meet every week on Saturday 3pm Room 1667 (16th Floor) of the W.E.B DuBois Library at UMass.</h2></center>
 
 -----
 
