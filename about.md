@@ -6,9 +6,9 @@ feature-img: "img/landscape4.jpeg"
 ---
 
 
-<center><h2>
+<center><h1>
 Mission Statement
-</h2></center>
+</h1></center>
 
 ---
 
