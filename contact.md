@@ -4,9 +4,11 @@ title: Contact
 permalink: /contact/
 feature-img: "img/landscape3.jpeg"
 ---
-<h3>We meet on Saturday 3pm in Room 1667 (16th Floor) of the W.E.B DuBois Library at UMass.</h3>
+<center><h3>We meet on Saturday 3pm in Room 1667 (16th Floor) of the W.E.B DuBois Library at UMass.</h3></center>
 
-<h4>Contact our Officers:</h4>
+-----
+
+<h4>Contact our Officers:</h4><br />
 
 - UGRID Email: <umassugrid@gmail.com><br />
 - President Email (Vincent Lee): <vylee@umass.edu><br />
