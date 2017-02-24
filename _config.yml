@@ -14,13 +14,13 @@ theme_settings:
   header_text: >
      <h2>Undergraduate Researchers Interested In Data</h2>
 
-  header_text_feature_image:
+  header_text_feature_image: "landscape1.jpeg"
   footer_text: >
    <h3>Copyright © UGRiD 2016</h3>
    
   # Icons
   rss: false
-  email_address:
+  email_address: "umassugrid@gmail.com"
   behance:
   bitbucket:
   dribbble:
@@ -42,7 +42,7 @@ theme_settings:
 
   # Scripts
   google_analytics: "UA-87367917-1"
-  disqus_shortname:
+  disqus_shortname: "ugrid-info"
   katex: true # Enable if using math markup
 
   # Localization strings
