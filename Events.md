@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Events
-permalink: /about/
+permalink: /events/
 feature-img: "img/texture4.png"
 ---
 
