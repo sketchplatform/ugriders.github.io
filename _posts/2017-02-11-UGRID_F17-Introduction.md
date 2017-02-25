@@ -4,7 +4,7 @@ title: UGRID Meeting 1 - Introduction
 author: Vincent Lee
 ---
 
-## Hello everyone welcome to the first offical UGRID Meeting!
+## Hello everyone welcome to the first UGRID Meeting!
 
 ---
 
