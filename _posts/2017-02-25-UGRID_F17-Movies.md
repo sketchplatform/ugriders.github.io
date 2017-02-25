@@ -5,7 +5,10 @@ feature-img: "img/texture3.png"
 author: Vincent Lee
 ---
 
-Hello everyone in this meeting we will start our analysis on cinematic entertainment, we would also like to do the following:
+In this meeting we will start our analysis on cinematic entertainment. The global movie industry earns billions of dollars each and every year. A large percentage of the population watches a movie every month. Forecasts show that the revenue money and expected numbers of moviemakers will only go up. This is a good opportunity to make predictions and perform a sales or marketing analysis. Although, the number of people watching movies at home have swayed by streamlining technology such as Netflix. You can never replace the experience for watching movies on the big screen with your friends at the theaters.
+
+##### We will also be going over the following:
+
 - *Wrap up the HR analytics dataset*: If you want to showcase your work please email us back.
 - *Prepare for Datafest*: We want everyone to form teams, socialize, and answer questions about Datafest.
 - *Schedule tentative plans*: Polling for mock datafest date, do we want Sunday classes for beginners, and the recruitment of officers.
