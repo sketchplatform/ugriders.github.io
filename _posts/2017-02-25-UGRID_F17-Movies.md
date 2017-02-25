@@ -5,10 +5,7 @@ feature-img: "img/texture3.png"
 author: Vincent Lee
 ---
 
-In this meeting we will start our analysis on cinematic entertainment. The global movie industry earns billions of dollars each and every year. A large percentage of the population watches a movie every month. Forecasts show that the revenue money and expected numbers of moviemakers will only go up. This is a good opportunity to make predictions and perform a sales or marketing analysis. Although, the number of people watching movies at home have swayed by streamlining technology such as Netflix. You can never replace the experience for watching movies on the big screen with your friends at the theaters.
-
-##### We will also be going over the following:
-
+Hello everyone, in this meeting we will start our data analysis on the movie industry. The global cinematic industry earns several billions of dollars each and every year. A large percentage of the population still watches movies every month. Forecasters show that the revenue money and expected numbers of viewership will only go up by 2020. This is a good opportunity for the ugriders to create machine learning predictions and perform a sales/marketing analysis. Although, the number of people watching movies at home have become streamlined by technology such as Netflix. You can never replace the experience of watching movies on the big screen with your friends at the theaters. We will also be going over the following:
 - *Wrap up the HR analytics dataset*: If you want to showcase your work please email us back.
 - *Prepare for Datafest*: We want everyone to form teams, socialize, and answer questions about Datafest.
 - *Schedule tentative plans*: Polling for mock datafest date, do we want Sunday classes for beginners, and the recruitment of officers.
