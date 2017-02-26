@@ -5,7 +5,7 @@ permalink: /resource/
 feature-img: "img/landscape2.jpeg"
 --- 
 
-<center><h1><a href="https://docs.google.com/document/d/1ybqfYYISGWTvPbdcLfyf95g8Sx3HmcP7qFnsJLpAnOw/edit">~ Click Here to visit the Data Science Resource Pack ~</a></h1></center>                                                          
+<center><h1><a href="https://docs.google.com/document/d/1ybqfYYISGWTvPbdcLfyf95g8Sx3HmcP7qFnsJLpAnOw/edit">Click Here to visit the Data Science Resource Pack</a></h1></center>                                                          
 
 -----
 
